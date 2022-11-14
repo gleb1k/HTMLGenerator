@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLGenerator", "HTMLGenerator\HTMLGenerator.csproj", "{B3D5B8D7-7166-489F-84F2-F141C9DD86C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLGeneratorLibrary", "HTMLGeneratorLibrary\HTMLGeneratorLibrary.csproj", "{954C6F29-F6FF-4F92-BDA7-A5547088FEF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D5B8D7-7166-489F-84F2-F141C9DD86C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D5B8D7-7166-489F-84F2-F141C9DD86C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D5B8D7-7166-489F-84F2-F141C9DD86C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D5B8D7-7166-489F-84F2-F141C9DD86C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954C6F29-F6FF-4F92-BDA7-A5547088FEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954C6F29-F6FF-4F92-BDA7-A5547088FEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954C6F29-F6FF-4F92-BDA7-A5547088FEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954C6F29-F6FF-4F92-BDA7-A5547088FEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A919FB8F-F213-4378-B136-F553F694BD39}
+	EndGlobalSection
+EndGlobal
