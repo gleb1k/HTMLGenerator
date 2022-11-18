@@ -3,6 +3,9 @@
 <title>Шапка</title>
 </head>
 <body>
-{{result}}
+{{variable.Id}}
+<p>Логин и пароль пользователя: <p>
+{{variable.Login}}
+{{variable.Password}}
 </body>
 </html>
