@@ -2,7 +2,7 @@
 {
     public interface IHtmlGeneratorService
     {
-        string GetHTML(string template, object model);
+        string GetHTMLMain(string template, object model);
         //string GetHTML(Path pathTemplate, object model);
         string GetHTML(Stream stream, object model);
         string GetHTML(byte[] bytes, object model);
